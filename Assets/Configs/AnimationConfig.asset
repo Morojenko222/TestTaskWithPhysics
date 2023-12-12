@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35c16bf0802d4262852feb206633b674, type: 3}
+  m_Name: AnimationConfig
+  m_EditorClassIdentifier: 
+  _walkFront: {fileID: 11400000, guid: ddeeb1b7ae1df5e448dad79880129388, type: 2}
+  _walkBack: {fileID: 11400000, guid: 13b78031dc5e15c4f8b49de4eee30ad9, type: 2}
+  idle: {fileID: 11400000, guid: df81b22179433c4479ee962a39382acf, type: 2}
